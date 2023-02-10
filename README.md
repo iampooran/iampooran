@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @iampooran
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning computer coding.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me pooransen50@gmail.com
+<div align="center">
 
-<!---
-iampooran/iampooran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![][logo-url]][repo-url]  
+
+**Tailwind CSS Components**  
+[ [See repo ↗︎][repo-url] ]
+  
+
+</div>
+
+[![][banner-url]][repo-url]  
+
+
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[repo-url]: https://github.com/saadeghi/daisyui
+[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
