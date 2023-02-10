@@ -1,1 +1,1 @@
-![visitors](https://visitor-badge.glitch.me/badge?iampooran=iampooran)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=iampooran.visitor-badge)
